@@ -34,6 +34,6 @@ import Ksiaski from "./komponenty/ksiaski";
       </main>
     </>
   )
-}
+
 
 export default App

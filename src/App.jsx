@@ -51,6 +51,12 @@ function App() {
     <FooterS/>
     
 
+    <TechnologyS/>
+    {rodzajtechnologi.map((rodzaj) =>(
+      <TechnologyS name={rodzaj.id + " " + rodzaj.name + " " + rodzaj.kategoria + " " + rodzaj.ileczasu}/>
+    ))}
+    
+
 
     </>
   )
