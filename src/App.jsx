@@ -49,6 +49,15 @@ function App() {
     <Infobox/>
     <FooterS/>
     <FooterS/>
+  {technologies.map((technology) => (
+  <Technology
+    key={technology.id}
+    name={technology.name}
+    category={technology.category}
+    hours={technology.hours}
+  />
+))}
+
     
 
     <TechnologyS/>
