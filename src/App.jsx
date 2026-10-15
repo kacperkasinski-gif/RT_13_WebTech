@@ -10,7 +10,7 @@ import TechnologyS  from './components/TechnologyS'
 import StudentDane from './components/Student'
 import Infobox from './components/InfoBox'
 import Navigation from './components/Navigation'
-import kasinski_15_10_2026 from './components/kasinski_15_10_2026'
+import TechnologiesS from './components/kasinski_15_10_2026'
 
 function App() {
 
