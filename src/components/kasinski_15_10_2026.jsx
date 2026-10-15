@@ -31,4 +31,4 @@ function kasinski_15_10_2026(){
     );
   }
 }
-export default technologiesS;
+export default TechnologiesS;
