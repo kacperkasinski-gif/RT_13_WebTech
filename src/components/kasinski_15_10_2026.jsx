@@ -10,7 +10,7 @@ function kasinski_15_10_2026(){
     { id: 8, name: "HTML", category: "Frontend", hours: 10, image: "html.webp" },
     { id: 9, name: "PHP", category: "Backend", hours: 35, image: "php.webp" }
     ];
-  function technologies() {
+  function technologiesS() {
     return (
       <div>
         {technologies.map((technologia) => (
@@ -31,4 +31,4 @@ function kasinski_15_10_2026(){
     );
   }
 }
-export default technologies;
+export default technologiesS;
