@@ -50,6 +50,7 @@ function App() {
     <Infobox/>
     <FooterS/>
     <FooterS/>
+    <kasinski_15_10_2026/>
   {technologies.map((technology) => (
   <Technology
     key={technology.id}
